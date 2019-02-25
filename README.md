@@ -10,6 +10,6 @@ API: compatible with KitKat and newer Operating Systems
 Features:
 - user number input
 - spinner
-- image
+- inserted image
 
 Taken from Android Bootcamp
